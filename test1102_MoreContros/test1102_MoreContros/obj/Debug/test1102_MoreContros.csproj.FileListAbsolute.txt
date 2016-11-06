@@ -1,0 +1,9 @@
+C:\Lab\test1102_MoreContros\test1102_MoreContros\bin\Debug\test1102_MoreContros.exe.config
+C:\Lab\test1102_MoreContros\test1102_MoreContros\bin\Debug\test1102_MoreContros.exe
+C:\Lab\test1102_MoreContros\test1102_MoreContros\bin\Debug\test1102_MoreContros.pdb
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.csprojResolveAssemblyReference.cache
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.Form1.resources
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.Properties.Resources.resources
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.csproj.GenerateResource.Cache
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.exe
+C:\Lab\test1102_MoreContros\test1102_MoreContros\obj\Debug\test1102_MoreContros.pdb

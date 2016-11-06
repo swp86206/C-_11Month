@@ -1,0 +1,9 @@
+C:\Lab\test1101_TabControls\test1101_TabControls\bin\Debug\test1101_TabControls.exe.config
+C:\Lab\test1101_TabControls\test1101_TabControls\bin\Debug\test1101_TabControls.exe
+C:\Lab\test1101_TabControls\test1101_TabControls\bin\Debug\test1101_TabControls.pdb
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.csprojResolveAssemblyReference.cache
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.Form1.resources
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.Properties.Resources.resources
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.csproj.GenerateResource.Cache
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.exe
+C:\Lab\test1101_TabControls\test1101_TabControls\obj\Debug\test1101_TabControls.pdb

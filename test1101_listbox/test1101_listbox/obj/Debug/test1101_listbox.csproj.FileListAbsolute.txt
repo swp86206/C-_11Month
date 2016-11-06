@@ -1,0 +1,9 @@
+C:\Lab\test1101_listbox\test1101_listbox\bin\Debug\test1101_listbox.exe.config
+C:\Lab\test1101_listbox\test1101_listbox\bin\Debug\test1101_listbox.exe
+C:\Lab\test1101_listbox\test1101_listbox\bin\Debug\test1101_listbox.pdb
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.Form1.resources
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.Properties.Resources.resources
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.csproj.GenerateResource.Cache
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.exe
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.pdb
+C:\Lab\test1101_listbox\test1101_listbox\obj\Debug\test1101_listbox.csprojResolveAssemblyReference.cache

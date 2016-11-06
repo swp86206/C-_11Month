@@ -1,0 +1,9 @@
+C:\Lab\test1104_FileIO\test1104_FileIO\bin\Debug\test1104_FileIO.exe.config
+C:\Lab\test1104_FileIO\test1104_FileIO\bin\Debug\test1104_FileIO.exe
+C:\Lab\test1104_FileIO\test1104_FileIO\bin\Debug\test1104_FileIO.pdb
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.csprojResolveAssemblyReference.cache
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.Form1.resources
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.Properties.Resources.resources
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.csproj.GenerateResource.Cache
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.exe
+C:\Lab\test1104_FileIO\test1104_FileIO\obj\Debug\test1104_FileIO.pdb

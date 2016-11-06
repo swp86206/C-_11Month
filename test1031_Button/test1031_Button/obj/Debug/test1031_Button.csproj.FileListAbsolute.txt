@@ -1,0 +1,9 @@
+C:\Lab\test1031_Button\test1031_Button\bin\Debug\test1031_Button.exe.config
+C:\Lab\test1031_Button\test1031_Button\bin\Debug\test1031_Button.exe
+C:\Lab\test1031_Button\test1031_Button\bin\Debug\test1031_Button.pdb
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.csprojResolveAssemblyReference.cache
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.Form1.resources
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.Properties.Resources.resources
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.csproj.GenerateResource.Cache
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.exe
+C:\Lab\test1031_Button\test1031_Button\obj\Debug\test1031_Button.pdb

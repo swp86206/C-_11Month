@@ -1,0 +1,9 @@
+C:\Lab\test1103_Keyboard\test1103_Keyboard\bin\Debug\test1103_Keyboard.exe.config
+C:\Lab\test1103_Keyboard\test1103_Keyboard\bin\Debug\test1103_Keyboard.exe
+C:\Lab\test1103_Keyboard\test1103_Keyboard\bin\Debug\test1103_Keyboard.pdb
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.csprojResolveAssemblyReference.cache
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.Form1.resources
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.Properties.Resources.resources
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.csproj.GenerateResource.Cache
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.exe
+C:\Lab\test1103_Keyboard\test1103_Keyboard\obj\Debug\test1103_Keyboard.pdb

@@ -1,0 +1,9 @@
+C:\Lab\test1101_Container\test1101_Container\bin\Debug\test1101_Container.exe.config
+C:\Lab\test1101_Container\test1101_Container\bin\Debug\test1101_Container.exe
+C:\Lab\test1101_Container\test1101_Container\bin\Debug\test1101_Container.pdb
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.csprojResolveAssemblyReference.cache
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.Form1.resources
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.Properties.Resources.resources
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.csproj.GenerateResource.Cache
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.exe
+C:\Lab\test1101_Container\test1101_Container\obj\Debug\test1101_Container.pdb

@@ -1,0 +1,9 @@
+C:\Lab\test1104_night\test1104_night\bin\Debug\test1104_night.exe.config
+C:\Lab\test1104_night\test1104_night\bin\Debug\test1104_night.exe
+C:\Lab\test1104_night\test1104_night\bin\Debug\test1104_night.pdb
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.csprojResolveAssemblyReference.cache
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.Form1.resources
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.Properties.Resources.resources
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.csproj.GenerateResource.Cache
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.exe
+C:\Lab\test1104_night\test1104_night\obj\Debug\test1104_night.pdb

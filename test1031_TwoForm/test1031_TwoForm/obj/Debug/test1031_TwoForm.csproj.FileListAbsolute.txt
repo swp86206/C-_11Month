@@ -1,0 +1,10 @@
+C:\Lab\test1031_TwoForm\test1031_TwoForm\bin\Debug\test1031_TwoForm.exe.config
+C:\Lab\test1031_TwoForm\test1031_TwoForm\bin\Debug\test1031_TwoForm.exe
+C:\Lab\test1031_TwoForm\test1031_TwoForm\bin\Debug\test1031_TwoForm.pdb
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.csprojResolveAssemblyReference.cache
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.Login.resources
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.MainForm.resources
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.Properties.Resources.resources
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.csproj.GenerateResource.Cache
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.exe
+C:\Lab\test1031_TwoForm\test1031_TwoForm\obj\Debug\test1031_TwoForm.pdb

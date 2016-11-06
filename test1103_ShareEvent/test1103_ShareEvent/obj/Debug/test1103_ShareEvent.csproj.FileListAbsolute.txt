@@ -1,0 +1,9 @@
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\bin\Debug\test1103_ShareEvent.exe.config
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\bin\Debug\test1103_ShareEvent.exe
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\bin\Debug\test1103_ShareEvent.pdb
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.csprojResolveAssemblyReference.cache
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.Form1.resources
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.Properties.Resources.resources
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.csproj.GenerateResource.Cache
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.exe
+C:\Lab\test1103_ShareEvent\test1103_ShareEvent\obj\Debug\test1103_ShareEvent.pdb

@@ -1,0 +1,9 @@
+C:\Lab\test1103_DragFile\test1103_DragFile\bin\Debug\test1103_DragFile.exe.config
+C:\Lab\test1103_DragFile\test1103_DragFile\bin\Debug\test1103_DragFile.exe
+C:\Lab\test1103_DragFile\test1103_DragFile\bin\Debug\test1103_DragFile.pdb
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.csprojResolveAssemblyReference.cache
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.Form1.resources
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.Properties.Resources.resources
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.csproj.GenerateResource.Cache
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.exe
+C:\Lab\test1103_DragFile\test1103_DragFile\obj\Debug\test1103_DragFile.pdb

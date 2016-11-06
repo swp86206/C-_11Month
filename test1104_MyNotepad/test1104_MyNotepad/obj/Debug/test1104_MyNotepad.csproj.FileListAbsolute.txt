@@ -1,0 +1,9 @@
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\bin\Debug\test1104_MyNotepad.exe.config
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\bin\Debug\test1104_MyNotepad.exe
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\bin\Debug\test1104_MyNotepad.pdb
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.csprojResolveAssemblyReference.cache
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.MainForm.resources
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.Properties.Resources.resources
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.csproj.GenerateResource.Cache
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.exe
+C:\Lab\test1104_MyNotepad\test1104_MyNotepad\obj\Debug\test1104_MyNotepad.pdb

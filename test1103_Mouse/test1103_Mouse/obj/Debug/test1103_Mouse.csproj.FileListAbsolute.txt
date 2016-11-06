@@ -1,0 +1,9 @@
+C:\Lab\test1103_Mouse\test1103_Mouse\bin\Debug\test1103_Mouse.exe.config
+C:\Lab\test1103_Mouse\test1103_Mouse\bin\Debug\test1103_Mouse.exe
+C:\Lab\test1103_Mouse\test1103_Mouse\bin\Debug\test1103_Mouse.pdb
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.csprojResolveAssemblyReference.cache
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.Form1.resources
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.Properties.Resources.resources
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.csproj.GenerateResource.Cache
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.exe
+C:\Lab\test1103_Mouse\test1103_Mouse\obj\Debug\test1103_Mouse.pdb

@@ -1,0 +1,9 @@
+C:\Lab\test1101_TextBox\test1101_TextBox\bin\Debug\test1101_TextBox.exe.config
+C:\Lab\test1101_TextBox\test1101_TextBox\bin\Debug\test1101_TextBox.exe
+C:\Lab\test1101_TextBox\test1101_TextBox\bin\Debug\test1101_TextBox.pdb
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.csprojResolveAssemblyReference.cache
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.Form1.resources
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.Properties.Resources.resources
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.csproj.GenerateResource.Cache
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.exe
+C:\Lab\test1101_TextBox\test1101_TextBox\obj\Debug\test1101_TextBox.pdb

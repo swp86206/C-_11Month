@@ -1,0 +1,10 @@
+C:\Lab\test1031_InlineForm\test1031_InlineForm\bin\Debug\test1031_InlineForm.exe.config
+C:\Lab\test1031_InlineForm\test1031_InlineForm\bin\Debug\test1031_InlineForm.exe
+C:\Lab\test1031_InlineForm\test1031_InlineForm\bin\Debug\test1031_InlineForm.pdb
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.csprojResolveAssemblyReference.cache
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.Form1.resources
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.Form2.resources
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.Properties.Resources.resources
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.csproj.GenerateResource.Cache
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.exe
+C:\Lab\test1031_InlineForm\test1031_InlineForm\obj\Debug\test1031_InlineForm.pdb

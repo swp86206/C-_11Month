@@ -1,0 +1,9 @@
+C:\Lab\test1101_radio\test1101_radio\bin\Debug\test1101_radio.exe.config
+C:\Lab\test1101_radio\test1101_radio\bin\Debug\test1101_radio.exe
+C:\Lab\test1101_radio\test1101_radio\bin\Debug\test1101_radio.pdb
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.csprojResolveAssemblyReference.cache
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.Form1.resources
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.Properties.Resources.resources
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.csproj.GenerateResource.Cache
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.exe
+C:\Lab\test1101_radio\test1101_radio\obj\Debug\test1101_radio.pdb

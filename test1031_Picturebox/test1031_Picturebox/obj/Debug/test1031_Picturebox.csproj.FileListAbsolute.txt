@@ -1,0 +1,8 @@
+C:\Lab\test1031_Picturebox\test1031_Picturebox\bin\Debug\test1031_Picturebox.exe.config
+C:\Lab\test1031_Picturebox\test1031_Picturebox\bin\Debug\test1031_Picturebox.exe
+C:\Lab\test1031_Picturebox\test1031_Picturebox\bin\Debug\test1031_Picturebox.pdb
+C:\Lab\test1031_Picturebox\test1031_Picturebox\obj\Debug\test1031_Picturebox.Form1.resources
+C:\Lab\test1031_Picturebox\test1031_Picturebox\obj\Debug\test1031_Picturebox.Properties.Resources.resources
+C:\Lab\test1031_Picturebox\test1031_Picturebox\obj\Debug\test1031_Picturebox.csproj.GenerateResource.Cache
+C:\Lab\test1031_Picturebox\test1031_Picturebox\obj\Debug\test1031_Picturebox.exe
+C:\Lab\test1031_Picturebox\test1031_Picturebox\obj\Debug\test1031_Picturebox.pdb

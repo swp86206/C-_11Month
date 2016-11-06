@@ -1,0 +1,10 @@
+C:\Lab\test1102_MDI\test1102_MDI\bin\Debug\test1102_MDI.exe.config
+C:\Lab\test1102_MDI\test1102_MDI\bin\Debug\test1102_MDI.exe
+C:\Lab\test1102_MDI\test1102_MDI\bin\Debug\test1102_MDI.pdb
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.csprojResolveAssemblyReference.cache
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.Form1.resources
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.Properties.Resources.resources
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.csproj.GenerateResource.Cache
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.exe
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.pdb
+C:\Lab\test1102_MDI\test1102_MDI\obj\Debug\test1102_MDI.ChildForm.resources

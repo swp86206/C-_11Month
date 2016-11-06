@@ -1,0 +1,9 @@
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\bin\Debug\test1101_ClipboardMonitor.exe.config
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\bin\Debug\test1101_ClipboardMonitor.exe
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\bin\Debug\test1101_ClipboardMonitor.pdb
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.csprojResolveAssemblyReference.cache
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.Form1.resources
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.Properties.Resources.resources
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.csproj.GenerateResource.Cache
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.exe
+C:\Lab\test1101_ClipboardMonitor\test1101_ClipboardMonitor\obj\Debug\test1101_ClipboardMonitor.pdb

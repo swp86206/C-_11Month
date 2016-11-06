@@ -1,0 +1,9 @@
+C:\Lab\test1031_Label\test1031_Label\bin\Debug\test1031_Label.exe.config
+C:\Lab\test1031_Label\test1031_Label\bin\Debug\test1031_Label.exe
+C:\Lab\test1031_Label\test1031_Label\bin\Debug\test1031_Label.pdb
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.csprojResolveAssemblyReference.cache
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.Form1.resources
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.Properties.Resources.resources
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.csproj.GenerateResource.Cache
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.exe
+C:\Lab\test1031_Label\test1031_Label\obj\Debug\test1031_Label.pdb

@@ -1,0 +1,8 @@
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\bin\Debug\test1031_NotifyIcon.exe.config
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\bin\Debug\test1031_NotifyIcon.exe
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\bin\Debug\test1031_NotifyIcon.pdb
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\obj\Debug\test1031_NotifyIcon.Form1.resources
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\obj\Debug\test1031_NotifyIcon.Properties.Resources.resources
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\obj\Debug\test1031_NotifyIcon.csproj.GenerateResource.Cache
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\obj\Debug\test1031_NotifyIcon.exe
+C:\Lab\test1031_NotifyIcon\test1031_NotifyIcon\obj\Debug\test1031_NotifyIcon.pdb

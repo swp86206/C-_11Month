@@ -1,0 +1,8 @@
+C:\Lab\test1101_MessageBox\test1101_MessageBox\bin\Debug\test1101_MessageBox.exe.config
+C:\Lab\test1101_MessageBox\test1101_MessageBox\bin\Debug\test1101_MessageBox.exe
+C:\Lab\test1101_MessageBox\test1101_MessageBox\bin\Debug\test1101_MessageBox.pdb
+C:\Lab\test1101_MessageBox\test1101_MessageBox\obj\Debug\test1101_MessageBox.Form1.resources
+C:\Lab\test1101_MessageBox\test1101_MessageBox\obj\Debug\test1101_MessageBox.Properties.Resources.resources
+C:\Lab\test1101_MessageBox\test1101_MessageBox\obj\Debug\test1101_MessageBox.csproj.GenerateResource.Cache
+C:\Lab\test1101_MessageBox\test1101_MessageBox\obj\Debug\test1101_MessageBox.exe
+C:\Lab\test1101_MessageBox\test1101_MessageBox\obj\Debug\test1101_MessageBox.pdb

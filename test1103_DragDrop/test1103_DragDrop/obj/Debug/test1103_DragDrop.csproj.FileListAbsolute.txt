@@ -1,0 +1,9 @@
+C:\Lab\test1103_DragDrop\test1103_DragDrop\bin\Debug\test1103_DragDrop.exe.config
+C:\Lab\test1103_DragDrop\test1103_DragDrop\bin\Debug\test1103_DragDrop.exe
+C:\Lab\test1103_DragDrop\test1103_DragDrop\bin\Debug\test1103_DragDrop.pdb
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.Form1.resources
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.Properties.Resources.resources
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.csproj.GenerateResource.Cache
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.exe
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.pdb
+C:\Lab\test1103_DragDrop\test1103_DragDrop\obj\Debug\test1103_DragDrop.csprojResolveAssemblyReference.cache
