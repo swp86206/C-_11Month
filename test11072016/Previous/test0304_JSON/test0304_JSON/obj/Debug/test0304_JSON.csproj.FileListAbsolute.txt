@@ -1,0 +1,11 @@
+D:\Lab\test0304_JSON\test0304_JSON\bin\Debug\test0304_JSON.exe.config
+D:\Lab\test0304_JSON\test0304_JSON\bin\Debug\test0304_JSON.exe
+D:\Lab\test0304_JSON\test0304_JSON\bin\Debug\test0304_JSON.pdb
+D:\Lab\test0304_JSON\test0304_JSON\bin\Debug\Newtonsoft.Json.dll
+D:\Lab\test0304_JSON\test0304_JSON\bin\Debug\Newtonsoft.Json.xml
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.csprojResolveAssemblyReference.cache
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.Form1.resources
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.Properties.Resources.resources
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.csproj.GenerateResource.Cache
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.exe
+D:\Lab\test0304_JSON\test0304_JSON\obj\Debug\test0304_JSON.pdb

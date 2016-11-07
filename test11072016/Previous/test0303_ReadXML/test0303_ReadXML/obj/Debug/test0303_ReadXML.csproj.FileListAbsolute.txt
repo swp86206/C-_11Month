@@ -1,0 +1,9 @@
+D:\Lab\test0303_ReadXML\test0303_ReadXML\bin\Debug\test0303_ReadXML.exe.config
+D:\Lab\test0303_ReadXML\test0303_ReadXML\bin\Debug\test0303_ReadXML.exe
+D:\Lab\test0303_ReadXML\test0303_ReadXML\bin\Debug\test0303_ReadXML.pdb
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.csprojResolveAssemblyReference.cache
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.Form1.resources
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.Properties.Resources.resources
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.csproj.GenerateResource.Cache
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.exe
+D:\Lab\test0303_ReadXML\test0303_ReadXML\obj\Debug\test0303_ReadXML.pdb

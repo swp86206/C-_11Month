@@ -1,0 +1,8 @@
+C:\Lab\test1107_Generic\test1107_Generic\bin\Debug\test1107_Generic.exe.config
+C:\Lab\test1107_Generic\test1107_Generic\bin\Debug\test1107_Generic.exe
+C:\Lab\test1107_Generic\test1107_Generic\bin\Debug\test1107_Generic.pdb
+C:\Lab\test1107_Generic\test1107_Generic\obj\Debug\test1107_Generic.Form1.resources
+C:\Lab\test1107_Generic\test1107_Generic\obj\Debug\test1107_Generic.Properties.Resources.resources
+C:\Lab\test1107_Generic\test1107_Generic\obj\Debug\test1107_Generic.csproj.GenerateResource.Cache
+C:\Lab\test1107_Generic\test1107_Generic\obj\Debug\test1107_Generic.exe
+C:\Lab\test1107_Generic\test1107_Generic\obj\Debug\test1107_Generic.pdb

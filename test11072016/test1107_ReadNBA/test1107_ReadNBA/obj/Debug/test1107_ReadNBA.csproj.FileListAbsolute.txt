@@ -1,0 +1,11 @@
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\bin\Debug\test1107_ReadNBA.exe.config
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\bin\Debug\test1107_ReadNBA.exe
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\bin\Debug\test1107_ReadNBA.pdb
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.csprojResolveAssemblyReference.cache
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.Form1.resources
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.Properties.Resources.resources
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.csproj.GenerateResource.Cache
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.exe
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\obj\Debug\test1107_ReadNBA.pdb
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\bin\Debug\Newtonsoft.Json.dll
+C:\Lab\test1107_ReadNBA\test1107_ReadNBA\bin\Debug\Newtonsoft.Json.xml

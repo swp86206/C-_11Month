@@ -1,0 +1,12 @@
+﻿#Components
+
+- XmlDocument
+- HtmlAgility
+- Newtonsoft.Json
+
+
+#Urls
+
+- http://www.jsoneditoronline.org/
+- http://data.nba.com/json/cms/noseason/scoreboard/20161105/games.json
+- http://data.nba.com/10s/json/cms/noseason/game/20161105/0021600086/pbp_all.json

@@ -1,0 +1,12 @@
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\NBA_OneGameScore.exe.config
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\NBA_OneGameScore.exe
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\NBA_OneGameScore.pdb
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.MainForm.resources
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.Properties.Resources.resources
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.csproj.GenerateResource.Cache
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.exe
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.pdb
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\HtmlAgilityPack.dll
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\HtmlAgilityPack.pdb
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\bin\Debug\HtmlAgilityPack.xml
+C:\MyApps\NBA_OneGameScore\NBA_OneGameScore\obj\Debug\NBA_OneGameScore.csprojResolveAssemblyReference.cache
