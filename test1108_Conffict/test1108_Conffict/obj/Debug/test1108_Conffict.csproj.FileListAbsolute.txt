@@ -1,0 +1,9 @@
+C:\Lab\test1108_Conffict\test1108_Conffict\bin\Debug\test1108_Conffict.exe.config
+C:\Lab\test1108_Conffict\test1108_Conffict\bin\Debug\test1108_Conffict.exe
+C:\Lab\test1108_Conffict\test1108_Conffict\bin\Debug\test1108_Conffict.pdb
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.csprojResolveAssemblyReference.cache
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.Form1.resources
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.Properties.Resources.resources
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.csproj.GenerateResource.Cache
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.exe
+C:\Lab\test1108_Conffict\test1108_Conffict\obj\Debug\test1108_Conffict.pdb

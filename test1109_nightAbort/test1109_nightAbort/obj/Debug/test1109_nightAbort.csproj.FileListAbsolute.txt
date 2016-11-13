@@ -1,0 +1,6 @@
+C:\Lab\test1109_nightAbort\test1109_nightAbort\bin\Debug\test1109_nightAbort.exe.config
+C:\Lab\test1109_nightAbort\test1109_nightAbort\bin\Debug\test1109_nightAbort.exe
+C:\Lab\test1109_nightAbort\test1109_nightAbort\bin\Debug\test1109_nightAbort.pdb
+C:\Lab\test1109_nightAbort\test1109_nightAbort\obj\Debug\test1109_nightAbort.csprojResolveAssemblyReference.cache
+C:\Lab\test1109_nightAbort\test1109_nightAbort\obj\Debug\test1109_nightAbort.exe
+C:\Lab\test1109_nightAbort\test1109_nightAbort\obj\Debug\test1109_nightAbort.pdb

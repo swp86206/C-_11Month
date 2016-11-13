@@ -1,0 +1,17 @@
+C:\Lab\test!!09_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.exe.config
+C:\Lab\test!!09_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.exe
+C:\Lab\test!!09_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.pdb
+C:\Lab\test!!09_Settings\test!!09_Settings\obj\Debug\test__09_Settings.Form1.resources
+C:\Lab\test!!09_Settings\test!!09_Settings\obj\Debug\test__09_Settings.Properties.Resources.resources
+C:\Lab\test!!09_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.csproj.GenerateResource.Cache
+C:\Lab\test!!09_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.exe
+C:\Lab\test!!09_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.pdb
+C:\Lab\test1109_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.exe.config
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.exe
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.pdb
+C:\Lab\test1109_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.exe
+C:\Lab\test1109_Settings\test!!09_Settings\bin\Debug\test!!09_Settings.pdb
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.csprojResolveAssemblyReference.cache
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test__09_Settings.Form1.resources
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test__09_Settings.Properties.Resources.resources
+C:\Lab\test1109_Settings\test!!09_Settings\obj\Debug\test!!09_Settings.csproj.GenerateResource.Cache

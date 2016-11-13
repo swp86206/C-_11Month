@@ -1,0 +1,6 @@
+C:\Lab\test1108_join\test1108_join\bin\Debug\test1108_join.exe.config
+C:\Lab\test1108_join\test1108_join\bin\Debug\test1108_join.exe
+C:\Lab\test1108_join\test1108_join\bin\Debug\test1108_join.pdb
+C:\Lab\test1108_join\test1108_join\obj\Debug\test1108_join.csprojResolveAssemblyReference.cache
+C:\Lab\test1108_join\test1108_join\obj\Debug\test1108_join.exe
+C:\Lab\test1108_join\test1108_join\obj\Debug\test1108_join.pdb

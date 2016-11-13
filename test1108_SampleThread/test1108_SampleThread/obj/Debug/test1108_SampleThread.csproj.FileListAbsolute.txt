@@ -1,0 +1,6 @@
+C:\Lab\test1108_SampleThread\test1108_SampleThread\bin\Debug\test1108_SampleThread.exe.config
+C:\Lab\test1108_SampleThread\test1108_SampleThread\bin\Debug\test1108_SampleThread.exe
+C:\Lab\test1108_SampleThread\test1108_SampleThread\bin\Debug\test1108_SampleThread.pdb
+C:\Lab\test1108_SampleThread\test1108_SampleThread\obj\Debug\test1108_SampleThread.csprojResolveAssemblyReference.cache
+C:\Lab\test1108_SampleThread\test1108_SampleThread\obj\Debug\test1108_SampleThread.exe
+C:\Lab\test1108_SampleThread\test1108_SampleThread\obj\Debug\test1108_SampleThread.pdb

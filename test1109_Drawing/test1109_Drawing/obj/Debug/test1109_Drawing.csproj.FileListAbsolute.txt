@@ -1,0 +1,9 @@
+C:\Lab\test1109_Drawing\test1109_Drawing\bin\Debug\test1109_Drawing.exe.config
+C:\Lab\test1109_Drawing\test1109_Drawing\bin\Debug\test1109_Drawing.exe
+C:\Lab\test1109_Drawing\test1109_Drawing\bin\Debug\test1109_Drawing.pdb
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.csprojResolveAssemblyReference.cache
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.Form1.resources
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.Properties.Resources.resources
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.csproj.GenerateResource.Cache
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.exe
+C:\Lab\test1109_Drawing\test1109_Drawing\obj\Debug\test1109_Drawing.pdb

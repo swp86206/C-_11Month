@@ -1,0 +1,12 @@
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\test1107_DownloadParseHtml.exe.config
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\test1107_DownloadParseHtml.exe
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\test1107_DownloadParseHtml.pdb
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\HtmlAgilityPack.dll
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\HtmlAgilityPack.pdb
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\bin\Debug\HtmlAgilityPack.xml
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.csprojResolveAssemblyReference.cache
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.Form1.resources
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.Properties.Resources.resources
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.csproj.GenerateResource.Cache
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.exe
+C:\Lab\test1107_DownloadParseHtml\test1107_DownloadParseHtml\obj\Debug\test1107_DownloadParseHtml.pdb

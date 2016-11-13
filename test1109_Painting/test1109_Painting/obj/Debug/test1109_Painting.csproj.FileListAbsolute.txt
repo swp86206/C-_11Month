@@ -1,0 +1,9 @@
+C:\Lab\test1109_Painting\test1109_Painting\bin\Debug\test1109_Painting.exe.config
+C:\Lab\test1109_Painting\test1109_Painting\bin\Debug\test1109_Painting.exe
+C:\Lab\test1109_Painting\test1109_Painting\bin\Debug\test1109_Painting.pdb
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.Form1.resources
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.Properties.Resources.resources
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.csproj.GenerateResource.Cache
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.exe
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.pdb
+C:\Lab\test1109_Painting\test1109_Painting\obj\Debug\test1109_Painting.csprojResolveAssemblyReference.cache

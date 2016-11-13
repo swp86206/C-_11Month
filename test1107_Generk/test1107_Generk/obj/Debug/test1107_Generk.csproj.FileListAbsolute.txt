@@ -1,0 +1,9 @@
+C:\Lab\test1107_Generk\test1107_Generk\bin\Debug\test1107_Generk.exe.config
+C:\Lab\test1107_Generk\test1107_Generk\bin\Debug\test1107_Generk.exe
+C:\Lab\test1107_Generk\test1107_Generk\bin\Debug\test1107_Generk.pdb
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.csprojResolveAssemblyReference.cache
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.Form1.resources
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.Properties.Resources.resources
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.csproj.GenerateResource.Cache
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.exe
+C:\Lab\test1107_Generk\test1107_Generk\obj\Debug\test1107_Generk.pdb

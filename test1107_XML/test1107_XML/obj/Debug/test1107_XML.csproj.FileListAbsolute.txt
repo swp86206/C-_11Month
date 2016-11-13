@@ -1,0 +1,9 @@
+C:\Lab\test1107_XML\test1107_XML\bin\Debug\test1107_XML.exe.config
+C:\Lab\test1107_XML\test1107_XML\bin\Debug\test1107_XML.exe
+C:\Lab\test1107_XML\test1107_XML\bin\Debug\test1107_XML.pdb
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.csprojResolveAssemblyReference.cache
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.Form1.resources
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.Properties.Resources.resources
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.csproj.GenerateResource.Cache
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.exe
+C:\Lab\test1107_XML\test1107_XML\obj\Debug\test1107_XML.pdb

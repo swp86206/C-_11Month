@@ -1,0 +1,9 @@
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\bin\Debug\test1108_BackgroundWorker.exe.config
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\bin\Debug\test1108_BackgroundWorker.exe
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\bin\Debug\test1108_BackgroundWorker.pdb
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.csprojResolveAssemblyReference.cache
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.Form1.resources
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.Properties.Resources.resources
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.csproj.GenerateResource.Cache
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.exe
+C:\Lab\test1108_BackgroundWorker\test1108_BackgroundWorker\obj\Debug\test1108_BackgroundWorker.pdb
