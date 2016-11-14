@@ -1,0 +1,8 @@
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\bin\Debug\test0611_RegisterHotkey.exe.config
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\obj\Debug\test0611_RegisterHotkey.Form1.resources
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\obj\Debug\test0611_RegisterHotkey.Properties.Resources.resources
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\obj\Debug\test0611_RegisterHotkey.csproj.GenerateResource.Cache
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\bin\Debug\test0611_RegisterHotkey.exe
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\bin\Debug\test0611_RegisterHotkey.pdb
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\obj\Debug\test0611_RegisterHotkey.exe
+D:\Lab\test0611_RegisterHotkey\test0611_RegisterHotkey\obj\Debug\test0611_RegisterHotkey.pdb

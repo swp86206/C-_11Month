@@ -1,0 +1,8 @@
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\bin\Debug\test0611_UsingWebService.exe.config
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\bin\Debug\test0611_UsingWebService.exe
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\bin\Debug\test0611_UsingWebService.pdb
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\obj\Debug\test0611_UsingWebService.Form1.resources
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\obj\Debug\test0611_UsingWebService.Properties.Resources.resources
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\obj\Debug\test0611_UsingWebService.csproj.GenerateResource.Cache
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\obj\Debug\test0611_UsingWebService.exe
+D:\Lab\test0611_UsingWebService\test0611_UsingWebService\obj\Debug\test0611_UsingWebService.pdb

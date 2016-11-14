@@ -1,0 +1,3 @@
+LIBRARY	"test0511_DLL"
+EXPORTS
+Add2

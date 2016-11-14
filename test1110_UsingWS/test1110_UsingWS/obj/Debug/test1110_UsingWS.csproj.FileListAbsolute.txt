@@ -1,0 +1,9 @@
+C:\Lab\test1110_UsingWS\test1110_UsingWS\bin\Debug\test1110_UsingWS.exe.config
+C:\Lab\test1110_UsingWS\test1110_UsingWS\bin\Debug\test1110_UsingWS.exe
+C:\Lab\test1110_UsingWS\test1110_UsingWS\bin\Debug\test1110_UsingWS.pdb
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.Form1.resources
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.Properties.Resources.resources
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.csproj.GenerateResource.Cache
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.exe
+C:\Lab\test1110_UsingWS\test1110_UsingWS\obj\Debug\test1110_UsingWS.pdb

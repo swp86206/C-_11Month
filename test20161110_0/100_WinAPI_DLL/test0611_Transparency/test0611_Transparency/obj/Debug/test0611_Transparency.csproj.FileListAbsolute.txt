@@ -1,0 +1,9 @@
+D:\Lab\test0611_Transparency\test0611_Transparency\bin\Debug\test0611_Transparency.exe.config
+D:\Lab\test0611_Transparency\test0611_Transparency\bin\Debug\test0611_Transparency.exe
+D:\Lab\test0611_Transparency\test0611_Transparency\bin\Debug\test0611_Transparency.pdb
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.csprojResolveAssemblyReference.cache
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.Form1.resources
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.Properties.Resources.resources
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.csproj.GenerateResource.Cache
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.exe
+D:\Lab\test0611_Transparency\test0611_Transparency\obj\Debug\test0611_Transparency.pdb

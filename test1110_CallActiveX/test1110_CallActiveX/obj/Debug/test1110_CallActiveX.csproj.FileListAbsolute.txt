@@ -1,0 +1,11 @@
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\bin\Debug\test1110_CallActiveX.exe.config
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\bin\Debug\test1110_CallActiveX.exe
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\bin\Debug\test1110_CallActiveX.pdb
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\Interop.RH.dll
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.csproj.ResolveComReference.cache
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.Form1.resources
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.Properties.Resources.resources
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.csproj.GenerateResource.Cache
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.exe
+C:\Lab\test1110_CallActiveX\test1110_CallActiveX\obj\Debug\test1110_CallActiveX.pdb

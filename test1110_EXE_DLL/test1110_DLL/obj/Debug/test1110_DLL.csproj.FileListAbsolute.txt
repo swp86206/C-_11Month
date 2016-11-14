@@ -1,0 +1,5 @@
+C:\Lab\test1110_EXE_DLL\test1110_DLL\bin\Debug\test1110_DLL.dll
+C:\Lab\test1110_EXE_DLL\test1110_DLL\bin\Debug\test1110_DLL.pdb
+C:\Lab\test1110_EXE_DLL\test1110_DLL\obj\Debug\test1110_DLL.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_EXE_DLL\test1110_DLL\obj\Debug\test1110_DLL.dll
+C:\Lab\test1110_EXE_DLL\test1110_DLL\obj\Debug\test1110_DLL.pdb

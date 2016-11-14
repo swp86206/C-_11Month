@@ -1,0 +1,9 @@
+C:\Lab\test1110_Transpant\test1110_Transpant\bin\Debug\test1110_Transpant.exe.config
+C:\Lab\test1110_Transpant\test1110_Transpant\bin\Debug\test1110_Transpant.exe
+C:\Lab\test1110_Transpant\test1110_Transpant\bin\Debug\test1110_Transpant.pdb
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.Form1.resources
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.Properties.Resources.resources
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.csproj.GenerateResource.Cache
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.exe
+C:\Lab\test1110_Transpant\test1110_Transpant\obj\Debug\test1110_Transpant.pdb

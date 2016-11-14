@@ -1,0 +1,10 @@
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\bin\Debug\RotateTransformDemo.exe
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\bin\Debug\RotateTransformDemo.pdb
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\GoldFishProject.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.FishForm.resources
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\GoldFishProject.csproj.GenerateResource.Cache
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.exe
+C:\Users\Mac\Desktop\20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.pdb
+C:\C-_11Month\test20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.exe
+C:\C-_11Month\test20161108_0\A lovely goldfish desktop pet\GoldFishProject\obj\Debug\RotateTransformDemo.pdb

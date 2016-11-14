@@ -1,0 +1,12 @@
+C:\Lab\test1109_DrawLine\test1109_DrawLine\bin\Debug\test1109_DrawLine.exe.config
+C:\Lab\test1109_DrawLine\test1109_DrawLine\bin\Debug\test1109_DrawLine.exe
+C:\Lab\test1109_DrawLine\test1109_DrawLine\bin\Debug\test1109_DrawLine.pdb
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.csprojResolveAssemblyReference.cache
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.Form1.resources
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.Properties.Resources.resources
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.csproj.GenerateResource.Cache
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.exe
+C:\Lab\test1109_DrawLine\test1109_DrawLine\obj\Debug\test1109_DrawLine.pdb
+C:\Users\Mac\Desktop\test1109_HW\test1109_DrawLine_1110\test1109_DrawLine\bin\Debug\test1109_DrawLine.exe.config
+C:\Users\Mac\Desktop\test1109_HW\test1109_DrawLine_1110\test1109_DrawLine\obj\Debug\test1109_DrawLine.exe
+C:\Users\Mac\Desktop\test1109_HW\test1109_DrawLine_1110\test1109_DrawLine\obj\Debug\test1109_DrawLine.pdb

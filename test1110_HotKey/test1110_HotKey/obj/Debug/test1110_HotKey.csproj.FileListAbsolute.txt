@@ -1,0 +1,9 @@
+C:\Lab\test1110_HotKey\test1110_HotKey\bin\Debug\test1110_HotKey.exe.config
+C:\Lab\test1110_HotKey\test1110_HotKey\bin\Debug\test1110_HotKey.exe
+C:\Lab\test1110_HotKey\test1110_HotKey\bin\Debug\test1110_HotKey.pdb
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.Form1.resources
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.Properties.Resources.resources
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.csproj.GenerateResource.Cache
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.exe
+C:\Lab\test1110_HotKey\test1110_HotKey\obj\Debug\test1110_HotKey.pdb

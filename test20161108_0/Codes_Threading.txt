@@ -1,0 +1,152 @@
+﻿
+// --------------------------------------------------------------------------------
+// 100  建立執行緒，同時進行兩件以上的工作
+//
+// Threading Work
+        static void DoWork() {
+            Thread.Sleep(10);
+            Console.WriteLine("DoWork() is running...");
+        }
+
+
+// New and Start a thread
+            Thread t = new Thread(new ThreadStart(DoWork));
+            t.Start();
+
+            //Thread t = new Thread(DoWork);
+            //t.Start();
+
+
+
+
+// --------------------------------------------------------------------------------
+// 200  如何等待執行緒完成其工作
+//
+// Threading Work
+        static void DoWork(Object data) {
+            Random dice = new Random();
+            string s = data.ToString();
+            for (int i = 1; i <= 10; i++) {
+                Thread.Sleep(dice.Next(10, 100));
+                Console.WriteLine(s);
+            }
+        }
+
+
+// Join
+            Thread t1 = new Thread(DoWork);
+            Thread t2 = new Thread(DoWork);
+
+            t1.Start("A");
+            t2.Start("B");
+
+            // Not a good idea:
+            //while (t1.ThreadState != ThreadState.Stopped) {
+            //    ;
+            //}
+            //while (t2.ThreadState != ThreadState.Stopped) {
+            //    ;
+            //}
+
+            t1.Join();
+            t2.Join();
+
+            Console.WriteLine("Done");
+
+
+
+
+// --------------------------------------------------------------------------------
+// 300  中止執行緒
+//
+// Threading Work
+        static void DoWork(Object data) {
+            try {
+                Random dice = new Random();
+                string s = data.ToString();
+                for (int i = 1; i <= 10; i++) {
+                    Thread.Sleep(dice.Next(10, 100));
+                    Console.WriteLine(s);
+                }
+            }
+            catch (ThreadAbortException ex) {
+                Console.WriteLine("I'm not happy.");
+                Console.WriteLine(ex.Message);
+            }
+            catch (Exception ex) {
+                Console.WriteLine(ex.Message);
+            }
+        }
+
+
+// Abort a thread
+        static void Main(string[] args) {
+
+            Thread t1 = new Thread(DoWork);
+            Thread t2 = new Thread(DoWork);
+
+            t1.Start("A");
+            t2.Start("B");
+
+            Thread.Sleep(200);
+            Console.WriteLine("A will be aborted.");
+            t1.Abort();
+
+            t1.Join();
+            t2.Join();
+
+            Console.WriteLine("Done");
+        }
+
+
+
+
+// --------------------------------------------------------------------------------
+// 400  觀察與調解兩個執行緒之間共用資源所衍生的問題
+//
+// <Note> 視窗應用程式專案，放置一個 ListBox，兩個 Button（btnRead, btnWrite）
+//
+
+        int iCount = 100;
+        ReaderWriterLock locker = new ReaderWriterLock();
+
+        void ReadData() {
+            //Monitor.Enter(this);
+            locker.AcquireReaderLock(10000);
+            listBox1.Items.Add("ReadData: " + iCount.ToString());
+            //locker.ReleaseReaderLock();
+
+            Thread.Sleep(5000);
+
+            //locker.AcquireReaderLock(10000);
+            listBox1.Items.Add("ReadData: " + iCount.ToString());
+            locker.ReleaseReaderLock();
+            //Monitor.Exit(this);
+        }
+
+        void WriteData() {
+            //Monitor.Enter(this);
+            locker.AcquireWriterLock(10000);
+            iCount += 100;
+            listBox1.Items.Add("WriteData: " + iCount.ToString());
+
+            Thread.Sleep(5000);
+
+            iCount += 100;
+            listBox1.Items.Add("WriteData: " + iCount.ToString());
+            locker.ReleaseWriterLock();
+            //Monitor.Exit(this);
+        }
+
+        private void btnRead_Click(object sender, EventArgs e) {
+            Thread t = new Thread(ReadData);
+            t.Start();
+        }
+
+        private void btnWrite_Click(object sender, EventArgs e) {
+            Thread t = new Thread(WriteData);
+            t.Start();
+        }
+
+
+

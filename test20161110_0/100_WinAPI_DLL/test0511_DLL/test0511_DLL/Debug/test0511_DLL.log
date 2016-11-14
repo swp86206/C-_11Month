@@ -1,0 +1,28 @@
+﻿已經開始建置於 2011/5/11 上午 06:24:29。
+     1>節點 2 (build 目標) 上的專案 "c:\Users\administrator\documents\visual studio 2010\Projects\test0511_DLL\test0511_DLL\test0511_DLL.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\test0511_DLL.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D TEST0511_DLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt source_c.c
+         source_c.c
+         所有輸出都是最新的。
+       ManifestResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\administrator\documents\visual studio 2010\Projects\test0511_DLL\Debug\test0511_DLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test0511_DLL.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\administrator\documents\visual studio 2010\Projects\test0511_DLL\Debug\test0511_DLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\administrator\documents\visual studio 2010\Projects\test0511_DLL\Debug\test0511_DLL.lib" /MACHINE:X86 /DLL Debug\test0511_DLL.dll.embed.manifest.res
+         Debug\source_c.obj
+         Debug\source_cpp.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test0511_DLL.dll.embed.manifest" /manifest Debug\test0511_DLL.dll.intermediate.manifest
+         所有輸出都是最新的。
+       LinkEmbedManifest:
+         所有輸出都是最新的。
+         test0511_DLL.vcxproj -> c:\users\administrator\documents\visual studio 2010\Projects\test0511_DLL\Debug\test0511_DLL.dll
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\test0511_DLL.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\test0511_DLL.lastbuildstate"。
+     1>專案 "c:\Users\administrator\documents\visual studio 2010\Projects\test0511_DLL\test0511_DLL\test0511_DLL.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.24

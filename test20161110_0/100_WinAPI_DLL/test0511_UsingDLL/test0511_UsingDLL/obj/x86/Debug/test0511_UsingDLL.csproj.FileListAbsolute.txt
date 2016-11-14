@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\bin\Debug\test0511_UsingDLL.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\bin\Debug\test0511_UsingDLL.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\test0511_UsingDLL.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\test0511_UsingDLL.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\test0511_UsingDLL.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\test0511_UsingDLL\test0511_UsingDLL\obj\x86\Debug\test0511_UsingDLL.pdb

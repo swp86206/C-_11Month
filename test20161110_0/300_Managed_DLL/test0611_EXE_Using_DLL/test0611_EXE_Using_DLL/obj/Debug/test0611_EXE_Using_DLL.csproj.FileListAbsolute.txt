@@ -1,0 +1,11 @@
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\bin\Debug\test0611_EXE_Using_DLL.exe.config
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\bin\Debug\test0611_EXE_Using_DLL.exe
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\bin\Debug\test0611_EXE_Using_DLL.pdb
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\bin\Debug\test0611_DLL.dll
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\bin\Debug\test0611_DLL.pdb
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.csprojResolveAssemblyReference.cache
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.Form1.resources
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.Properties.Resources.resources
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.csproj.GenerateResource.Cache
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.exe
+D:\Lab\test0611_EXE_Using_DLL\test0611_EXE_Using_DLL\obj\Debug\test0611_EXE_Using_DLL.pdb

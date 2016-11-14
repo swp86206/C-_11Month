@@ -1,0 +1,11 @@
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\bin\Debug\test0611_UsingActiveX.exe.config
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\bin\Debug\test0611_UsingActiveX.exe
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\bin\Debug\test0611_UsingActiveX.pdb
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.csprojResolveAssemblyReference.cache
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\Interop.RH.dll
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.csproj.ResolveComReference.cache
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.Form1.resources
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.Properties.Resources.resources
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.csproj.GenerateResource.Cache
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.exe
+D:\Lab\test0611_UsingActiveX\test0611_UsingActiveX\obj\Debug\test0611_UsingActiveX.pdb

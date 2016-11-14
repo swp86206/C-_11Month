@@ -1,0 +1,11 @@
+C:\Lab\test1110_EXE_DLL\test1110_EXE\bin\Debug\test1110_EXE.exe.config
+C:\Lab\test1110_EXE_DLL\test1110_EXE\bin\Debug\test1110_EXE.exe
+C:\Lab\test1110_EXE_DLL\test1110_EXE\bin\Debug\test1110_EXE.pdb
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.csprojResolveAssemblyReference.cache
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.Properties.Resources.resources
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.csproj.GenerateResource.Cache
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.exe
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.pdb
+C:\Lab\test1110_EXE_DLL\test1110_EXE\bin\Debug\test1110_DLL.dll
+C:\Lab\test1110_EXE_DLL\test1110_EXE\bin\Debug\test1110_DLL.pdb
+C:\Lab\test1110_EXE_DLL\test1110_EXE\obj\Debug\test1110_EXE.Form1.resources
