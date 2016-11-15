@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1111_LabTimer", "test1111_LabTimer\test1111_LabTimer.csproj", "{02317453-A5E4-4D09-91D3-012A17ECBD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1111_usingLabTimer", "test1111_usingLabTimer\test1111_usingLabTimer.csproj", "{0BDC86E8-DE1A-4F2D-AB9B-411010EECB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02317453-A5E4-4D09-91D3-012A17ECBD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02317453-A5E4-4D09-91D3-012A17ECBD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02317453-A5E4-4D09-91D3-012A17ECBD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02317453-A5E4-4D09-91D3-012A17ECBD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDC86E8-DE1A-4F2D-AB9B-411010EECB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDC86E8-DE1A-4F2D-AB9B-411010EECB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDC86E8-DE1A-4F2D-AB9B-411010EECB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDC86E8-DE1A-4F2D-AB9B-411010EECB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

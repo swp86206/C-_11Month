@@ -1,0 +1,6 @@
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\bin\Debug\test1111_TCPIP_Sercer.exe.config
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\bin\Debug\test1111_TCPIP_Sercer.exe
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\bin\Debug\test1111_TCPIP_Sercer.pdb
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\obj\Debug\test1111_TCPIP_Sercer.csprojResolveAssemblyReference.cache
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\obj\Debug\test1111_TCPIP_Sercer.exe
+C:\Lab\test1111_TCPIP_Sercer\test1111_TCPIP_Sercer\obj\Debug\test1111_TCPIP_Sercer.pdb

@@ -1,0 +1,9 @@
+C:\Lab\test1111_Take1\test1111_Take1\bin\Debug\test1111_Take1.exe.config
+C:\Lab\test1111_Take1\test1111_Take1\bin\Debug\test1111_Take1.exe
+C:\Lab\test1111_Take1\test1111_Take1\bin\Debug\test1111_Take1.pdb
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.csprojResolveAssemblyReference.cache
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.Form1.resources
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.Properties.Resources.resources
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.csproj.GenerateResource.Cache
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.exe
+C:\Lab\test1111_Take1\test1111_Take1\obj\Debug\test1111_Take1.pdb

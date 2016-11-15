@@ -1,0 +1,7 @@
+C:\Lab\test1111_LabTimer\test1111_LabTimer\bin\Debug\test1111_LabTimer.dll
+C:\Lab\test1111_LabTimer\test1111_LabTimer\bin\Debug\test1111_LabTimer.pdb
+C:\Lab\test1111_LabTimer\test1111_LabTimer\obj\Debug\test1111_LabTimer.csprojResolveAssemblyReference.cache
+C:\Lab\test1111_LabTimer\test1111_LabTimer\obj\Debug\test1111_LabTimer.CLabTimer.resources
+C:\Lab\test1111_LabTimer\test1111_LabTimer\obj\Debug\test1111_LabTimer.csproj.GenerateResource.Cache
+C:\Lab\test1111_LabTimer\test1111_LabTimer\obj\Debug\test1111_LabTimer.dll
+C:\Lab\test1111_LabTimer\test1111_LabTimer\obj\Debug\test1111_LabTimer.pdb

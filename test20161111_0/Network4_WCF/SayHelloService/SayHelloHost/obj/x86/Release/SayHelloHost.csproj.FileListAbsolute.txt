@@ -1,0 +1,10 @@
+C:\Lab\SayHelloService\SayHelloHost\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloHost.exe.config
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloHost.exe
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloHost.pdb
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloInterface.dll
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloService.dll
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloInterface.pdb
+C:\Lab\SayHelloService\SayHelloHost\bin\Release\SayHelloService.pdb
+C:\Lab\SayHelloService\SayHelloHost\obj\x86\Release\SayHelloHost.exe
+C:\Lab\SayHelloService\SayHelloHost\obj\x86\Release\SayHelloHost.pdb

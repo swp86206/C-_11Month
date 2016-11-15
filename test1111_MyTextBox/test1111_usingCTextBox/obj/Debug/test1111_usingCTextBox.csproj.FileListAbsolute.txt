@@ -1,0 +1,11 @@
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\bin\Debug\test1111_usingCTextBox.exe.config
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\bin\Debug\test1111_usingCTextBox.exe
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\bin\Debug\test1111_usingCTextBox.pdb
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\bin\Debug\test1111_MyTextBox.dll
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\bin\Debug\test1111_MyTextBox.pdb
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.csprojResolveAssemblyReference.cache
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.Form1.resources
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.Properties.Resources.resources
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.csproj.GenerateResource.Cache
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.exe
+C:\Lab\test1111_MyTextBox\test1111_usingCTextBox\obj\Debug\test1111_usingCTextBox.pdb

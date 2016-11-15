@@ -1,0 +1,16 @@
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.exe
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.xml
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.pdb
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.exe
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.pdb
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.xml
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.Resources.resources
+C:\WebAPI\Demo\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\TCPIP_Client.vbproj.GenerateResource.Cache
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.exe
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.xml
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.pdb
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.exe
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.pdb
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\bin\Release\test0418_Client.xml
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\test0418_Client.Resources.resources
+C:\Users\Mac\Desktop\20161111_0\Network1_TCPIP\TCPIP_Client\TCPIP_Client\obj\x86\Release\TCPIP_Client.vbproj.GenerateResource.Cache

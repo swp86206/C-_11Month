@@ -1,0 +1,11 @@
+C:\Workout\test0418_Server\test0418_Server\bin\Release\test0418_Server.exe
+C:\Workout\test0418_Server\test0418_Server\bin\Release\test0418_Server.pdb
+C:\Workout\test0418_Server\test0418_Server\bin\Release\test0418_Server.xml
+C:\Workout\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.Resources.resources
+C:\Workout\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.vbproj.GenerateResource.Cache
+C:\Workout\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.exe
+C:\Workout\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.xml
+C:\Workout\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.pdb
+C:\WebAPI\Demo\Network1_TCPIP\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.exe
+C:\WebAPI\Demo\Network1_TCPIP\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.xml
+C:\WebAPI\Demo\Network1_TCPIP\test0418_Server\test0418_Server\obj\x86\Release\test0418_Server.pdb

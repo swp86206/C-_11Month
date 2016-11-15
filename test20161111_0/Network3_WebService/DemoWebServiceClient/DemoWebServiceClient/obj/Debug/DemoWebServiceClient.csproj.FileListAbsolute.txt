@@ -1,0 +1,9 @@
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\bin\Debug\DemoWebServiceClient.exe.config
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\bin\Debug\DemoWebServiceClient.exe
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\bin\Debug\DemoWebServiceClient.pdb
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.csprojResolveAssemblyReference.cache
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.Form1.resources
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.Properties.Resources.resources
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.csproj.GenerateResource.Cache
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.exe
+C:\WebAPI\Demo\Network3_WebService\DemoWebServiceClient\DemoWebServiceClient\obj\Debug\DemoWebServiceClient.pdb

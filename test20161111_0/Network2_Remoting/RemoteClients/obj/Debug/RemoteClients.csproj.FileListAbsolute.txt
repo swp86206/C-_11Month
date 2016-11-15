@@ -1,0 +1,8 @@
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\bin\Debug\RemoteClients.exe.config
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\bin\Debug\RemoteClients.exe
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\bin\Debug\RemoteClients.pdb
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\bin\Debug\RemoteObjects.dll
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\bin\Debug\RemoteObjects.pdb
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\obj\Debug\RemoteClients.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\obj\Debug\RemoteClients.exe
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteClients\obj\Debug\RemoteClients.pdb

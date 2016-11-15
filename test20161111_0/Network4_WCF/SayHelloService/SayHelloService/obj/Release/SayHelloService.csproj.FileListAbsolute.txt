@@ -1,0 +1,7 @@
+C:\Lab\SayHelloService\SayHelloService\bin\Release\SayHelloService.dll
+C:\Lab\SayHelloService\SayHelloService\bin\Release\SayHelloService.pdb
+C:\Lab\SayHelloService\SayHelloService\bin\Release\SayHelloInterface.dll
+C:\Lab\SayHelloService\SayHelloService\bin\Release\SayHelloInterface.pdb
+C:\Lab\SayHelloService\SayHelloService\obj\Release\ResolveAssemblyReference.cache
+C:\Lab\SayHelloService\SayHelloService\obj\Release\SayHelloService.dll
+C:\Lab\SayHelloService\SayHelloService\obj\Release\SayHelloService.pdb

@@ -1,0 +1,8 @@
+bin\Debug\RemoteClients.exe
+bin\Debug\RemoteClients.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemoteClients.exe
+obj\Debug\RemoteClients.pdb
+bin\Debug\RemoteObjects.dll
+bin\Debug\RemoteObjects.pdb
+bin\Debug\RemoteClients.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteObjects\bin\Debug\RemoteObjects.dll
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteObjects\bin\Debug\RemoteObjects.pdb
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteObjects\obj\Debug\RemoteObjects.csprojResolveAssemblyReference.cache
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteObjects\obj\Debug\RemoteObjects.dll
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteObjects\obj\Debug\RemoteObjects.pdb

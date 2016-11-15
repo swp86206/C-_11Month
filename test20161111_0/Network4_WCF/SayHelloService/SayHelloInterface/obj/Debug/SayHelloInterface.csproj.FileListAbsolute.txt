@@ -1,0 +1,5 @@
+C:\Lab\SayHelloService\SayHelloInterface\bin\Debug\SayHelloInterface.dll
+C:\Lab\SayHelloService\SayHelloInterface\bin\Debug\SayHelloInterface.pdb
+C:\Lab\SayHelloService\SayHelloInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Lab\SayHelloService\SayHelloInterface\obj\Debug\SayHelloInterface.dll
+C:\Lab\SayHelloService\SayHelloInterface\obj\Debug\SayHelloInterface.pdb

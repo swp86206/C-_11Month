@@ -1,0 +1,6 @@
+C:\Lab\SelfHost_Client\SelfHost_Client\bin\Release\SelfHost_Client.exe.config
+C:\Lab\SelfHost_Client\SelfHost_Client\bin\Release\SelfHost_Client.exe
+C:\Lab\SelfHost_Client\SelfHost_Client\bin\Release\SelfHost_Client.pdb
+C:\Lab\SelfHost_Client\SelfHost_Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lab\SelfHost_Client\SelfHost_Client\obj\x86\Release\SelfHost_Client.exe
+C:\Lab\SelfHost_Client\SelfHost_Client\obj\x86\Release\SelfHost_Client.pdb

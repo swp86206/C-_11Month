@@ -1,0 +1,6 @@
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\bin\DemoWebService.dll.config
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\bin\DemoWebService.dll
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\bin\DemoWebService.pdb
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\obj\Debug\DemoWebService.csprojResolveAssemblyReference.cache
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\obj\Debug\DemoWebService.dll
+C:\WebAPI\Demo\Network3_WebService\DemoWebService\DemoWebService\obj\Debug\DemoWebService.pdb

@@ -1,0 +1,5 @@
+C:\Lab\test1111_TCPIP_Client\test1111_TCPIP_Client\bin\Debug\test1111_TCPIP_Client.exe.config
+C:\Lab\test1111_TCPIP_Client\test1111_TCPIP_Client\bin\Debug\test1111_TCPIP_Client.exe
+C:\Lab\test1111_TCPIP_Client\test1111_TCPIP_Client\bin\Debug\test1111_TCPIP_Client.pdb
+C:\Lab\test1111_TCPIP_Client\test1111_TCPIP_Client\obj\Debug\test1111_TCPIP_Client.exe
+C:\Lab\test1111_TCPIP_Client\test1111_TCPIP_Client\obj\Debug\test1111_TCPIP_Client.pdb

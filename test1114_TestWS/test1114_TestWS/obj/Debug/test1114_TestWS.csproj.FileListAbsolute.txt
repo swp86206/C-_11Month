@@ -1,0 +1,9 @@
+C:\Lab\test1114_TestWS\test1114_TestWS\bin\Debug\test1114_TestWS.exe.config
+C:\Lab\test1114_TestWS\test1114_TestWS\bin\Debug\test1114_TestWS.exe
+C:\Lab\test1114_TestWS\test1114_TestWS\bin\Debug\test1114_TestWS.pdb
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.csprojResolveAssemblyReference.cache
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.Properties.Resources.resources
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.csproj.GenerateResource.Cache
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.exe
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.pdb
+C:\Lab\test1114_TestWS\test1114_TestWS\obj\Debug\test1114_TestWS.Form1.resources

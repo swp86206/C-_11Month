@@ -1,0 +1,7 @@
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\bin\Debug\RemoteServers.exe.config
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\obj\Debug\RemoteServers.exe
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\obj\Debug\RemoteServers.pdb
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\bin\Debug\RemoteServers.exe
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\bin\Debug\RemoteServers.pdb
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\bin\Debug\RemoteObjects.dll
+C:\Users\Mac\Desktop\20161111_0\Network2_Remoting\RemoteServers\bin\Debug\RemoteObjects.pdb

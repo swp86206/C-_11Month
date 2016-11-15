@@ -1,0 +1,8 @@
+C:\Workout\test0418_Client\test0418_Client\bin\Debug\test0418_Client.exe
+C:\Workout\test0418_Client\test0418_Client\bin\Debug\test0418_Client.pdb
+C:\Workout\test0418_Client\test0418_Client\bin\Debug\test0418_Client.xml
+C:\Workout\test0418_Client\test0418_Client\obj\x86\Debug\test0418_Client.Resources.resources
+C:\Workout\test0418_Client\test0418_Client\obj\x86\Debug\test0418_Client.vbproj.GenerateResource.Cache
+C:\Workout\test0418_Client\test0418_Client\obj\x86\Debug\test0418_Client.exe
+C:\Workout\test0418_Client\test0418_Client\obj\x86\Debug\test0418_Client.xml
+C:\Workout\test0418_Client\test0418_Client\obj\x86\Debug\test0418_Client.pdb

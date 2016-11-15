@@ -1,0 +1,5 @@
+C:\Lab\SelfHost\SelfHost\bin\Release\SelfHost.exe
+C:\Lab\SelfHost\SelfHost\bin\Release\SelfHost.pdb
+C:\Lab\SelfHost\SelfHost\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Lab\SelfHost\SelfHost\obj\x86\Release\SelfHost.exe
+C:\Lab\SelfHost\SelfHost\obj\x86\Release\SelfHost.pdb

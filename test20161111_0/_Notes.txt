@@ -1,0 +1,4 @@
+﻿目錄: c:\WebAPI\Demo
+
+各資料夾的Solution File(*.SLN)與Project Files(.vbproj, .csproj)
+已使用 VS 2013 Express 開啟過，所以，有可能無法使用舊版 VS 開啟。
